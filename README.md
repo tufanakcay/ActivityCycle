@@ -1,2 +1,2 @@
-# ActivityCycle
+# Activity Cycle
  Activity Cycle
