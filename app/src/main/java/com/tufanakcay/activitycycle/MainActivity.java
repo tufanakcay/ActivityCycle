@@ -79,10 +79,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void getName(View view){
-
         String nameInput = editText.getText().toString();
         textView.setText(nameInput);
-
     }
 
     public void secondActivity(View view) {
